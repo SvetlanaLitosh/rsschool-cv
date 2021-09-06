@@ -52,5 +52,5 @@ return current
 ***
 ### Languages:
 * __English__ https://www.efset.org/quick-check/take-test#set15-190/result  
-My level of English is in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE
+ B1
 * __Russian__ Native
