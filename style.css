@@ -32,6 +32,7 @@ header {
     box-shadow: 10px 10px 5px grey;
     border: 3px solid #3db5d8;
     padding: 20px;
+    margin-bottom: 20px;
         
 }
 
@@ -53,7 +54,7 @@ aside {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-indent: 20px;
     margin: auto;
-    background-color: rgb(168, 238, 238); 
+    background-color: rgb(223, 236, 236); 
     width: auto;
     padding: 10px 30px 20px;
 
